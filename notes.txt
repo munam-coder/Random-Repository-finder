@@ -1,0 +1,24 @@
+steps
+first make options in html and style it✅
+make repo box and style it✅
+make button of retry when error occurs also style them 
+make button of refresh when when repo fetched but but to want another also style them
+now write the js 
+
+
+
+
+
+
+
+add dyanmmically in display repo
+      <h2 id="repo-name">Repository Name</h2>
+    <p id="repo-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum rerum corrupti labore?</p>
+    <div class="repo-stats">
+        <span id="lang-name">javascript</span>
+        <span>⭐ <span id="repo-stars">0</span></span>
+        <span>🍴 <span id="repo-forks">0</span></span>
+        <span>❗ <span id="repo-issues">0</span></span>
+    </div>
+
+       </div>
