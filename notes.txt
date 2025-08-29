@@ -4,7 +4,7 @@ make repo box and style it✅
 make button of retry when error occurs also style them 
 make button of refresh when when repo fetched but but to want another also style them
 now write the js 
-
+start working in js
 
 
 
@@ -20,5 +20,6 @@ add dyanmmically in display repo
         <span>🍴 <span id="repo-forks">0</span></span>
         <span>❗ <span id="repo-issues">0</span></span>
     </div>
+
 
        </div>
