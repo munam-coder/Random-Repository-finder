@@ -19,7 +19,7 @@ The generator uses APIs to fetch and display random repositories for you to chec
 4. Enjoy discovering random repositories! 🎉
 
 porject url
-()
+(https://roadmap.sh/projects/github-random-repo)
 
 
 ---
