@@ -18,12 +18,8 @@ The generator uses APIs to fetch and display random repositories for you to chec
 3. Run the project  
 4. Enjoy discovering random repositories! 🎉
 
-## Images & Screenshots 🖼️
-Add screenshots or images here to showcase your project’s interface, how it works, or any cool outputs!  
-For example:
-```
-![Random Repository Result](images/sample-result.png)
-```
+porject url
+()
 
 
 ---
